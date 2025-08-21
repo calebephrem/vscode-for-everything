@@ -4,7 +4,7 @@
   <img src="https://github.com/calebephrem/vscode-for-everything/blob/main/assets/icon.png?raw=true" alt="VSCODE FOR EVERYTHING" width="200" height="200" />
 
   <p align="center" style="margin-top: 12px;">
-    <strong><small>USE VS CODE FOR EVERYTHING, AND ANYTHING</small></strong>
+    <strong><small>USE VS CODE FOR EVERYTHING</small></strong>
   </p>
 
   <br />
