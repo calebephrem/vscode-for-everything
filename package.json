@@ -1,0 +1,52 @@
+{
+  "name": "vscode-for-everything",
+  "displayName": "VSCode For Everything",
+  "description": "⚡ Perform Any Task — Without Ever Leaving VS Code! From theming to debugging, live sharing to git mastery, this pack turns your editor into a full-blown dev cockpit 🚀",
+  "publisher": "CalebEphrem",
+  "version": "1.0.0",
+  "author": {
+    "name": "Caleb Ephrem",
+    "email": "quantumpandaprog@gmail.com"
+  },
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/calebephrem/vscode-for-everything"
+  },
+  "icon": "assets/icon.png",
+  "categories": [
+    "Extension Packs"
+  ],
+  "keywords": [
+    "vscode for everything",
+    "vscode for anything",
+    "code for everything",
+    "code for anything"
+  ],
+  "extensionPack": [
+    "CalebEphrem.quantum",
+    "pkief.material-icon-theme",
+    "miguelsolorio.fluent-icons",
+    "ritwickdey.liveserver",
+    "esbenp.prettier-vscode",
+    "ms-vsliveshare.vsliveshare",
+    "formulahendry.code-runner",
+    "mongodb.mongodb-vscode",
+    "usernamehw.errorlens",
+    "aaron-bond.better-comments",
+    "inu1255.easy-snippet",
+    "gruntfuggly.todo-tree",
+    "adpyke.codesnap",
+    "cardinal90.multi-cursor-case-preserve",
+    "rodrigovallades.es7-react-js-snippets",
+    "eamodio.gitlens",
+    "mhutchie.git-graph",
+    "github.vscode-pull-request-github",
+    "codezombiech.gitignore",
+    "formulahendry.auto-rename-tag",
+    "solnurkarim.html-to-css-autocompletion",
+    "jkjustjoshing.vscode-text-pastry"
+  ]
+}
